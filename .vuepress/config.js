@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/docs/',
     title: '前端文档库',
     description: '前端文档库中心',
     dest: './dist',
