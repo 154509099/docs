@@ -43,14 +43,6 @@ module.exports = {
                     '/specification/less-code-style',
                 ],
             },
-            {
-                title: '规范设计',
-                collapsable: false,
-                children: [
-                    '/design/project-design-demo',
-                    '/design/pagination-component-API-document',
-                ],
-            },
         ]
     },
 };
